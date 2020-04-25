@@ -387,7 +387,6 @@ Temporary Items
 
 =======
 # Local
-docker-compose.yml
 .env
 .env.prod
 .env.test
